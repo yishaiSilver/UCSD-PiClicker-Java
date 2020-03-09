@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry excluding="com/sun/jna/|com/sun/jna/copy/|com/sun/jna/darwin/|com/sun/jna/darwin/copy/|com/sun/jna/platform/|com/sun/jna/platform/dnd/|com/sun/jna/platform/mac/|com/sun/jna/platform/unix/|com/sun/jna/platform/unix/solaris/|com/sun/jna/platform/win32/|com/sun/jna/platform/win32/COM/|com/sun/jna/platform/win32/COM/tlb/|com/sun/jna/platform/win32/COM/tlb/imp/|com/sun/jna/platform/win32/COM/util/annotation/|com/sun/jna/platform/wince/|com/sun/jna/ptr/copy/|com/sun/jna/win32/copy/" kind="src" path="src"/>
+	<classpathentry kind="lib" path="jna-4.5.0.jar"/>
+	<classpathentry kind="lib" path="jna-platform-4.5.0.jar"/>
+	<classpathentry kind="lib" path="lib/jna-4.5.0.jar"/>
+	<classpathentry kind="lib" path="lib/jna-platform-4.5.0.jar"/>
+	<classpathentry kind="lib" path="lib/jfreechart-1.0.19.jar"/>
+	<classpathentry kind="lib" path="jfreechart-1.0.19.jar"/>
+	<classpathentry kind="lib" path="lib/jcommon-1.0.23.jar"/>
+	<classpathentry kind="lib" path="lib/purejavahidapi.jar"/>
+	<classpathentry kind="lib" path="purejavahidapi.jar"/>
+	<classpathentry kind="lib" path="jcommon-1.0.23.jar"/>
+	<classpathentry kind="lib" path="lib/commons-net-3.6.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
